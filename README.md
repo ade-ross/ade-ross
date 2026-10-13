@@ -28,5 +28,6 @@ Software developer trained at 42: common core completed in Florence, outer core 
 
 ## Contact
 
-- **Email:** [alessandrodeross@gmail.com](mailto:alessandrodeross@gmail.com)
+- **Email:** [alederossi99@gmail.com](mailto:alederossi99@gmail.com)
 - **LinkedIn:** [linkedin.com/in/alessandro-de-rossi](https://www.linkedin.com/in/alessandro-de-rossi)
+
